@@ -1,5 +1,5 @@
 {
-    "name": "alfallouji/dhl_api",
+    "name": "majdelhaj/dhl_api",
 
     "description": "PHP library to communicate with the DHL XML Services.",
 
@@ -15,8 +15,8 @@
 
 	"authors": [
         {
-            "name": "Bashar Al-Fallouji",
-            "email": "bashar@alfallouji.com"
+            "name": "Majd Alhaj",
+            "email": "majdelhaj@gmail.com"
         }
     ]
 }
