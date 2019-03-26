@@ -1,6 +1,8 @@
     
 ## Authors & contact
 
+Majd A. Alhaj
+    - majdelhaj@gmail.com
 
 Al-Fallouji Bashar 
     - bashar@alfallouji.com
@@ -10,7 +12,7 @@ Al-Fallouji Bashar
 
 
 Latest version is available on github at :
-    - http://github.com/alfallouji/DHL-API/
+    - http://github.com/majdelhaj/DHL-API/
 
 
 ## License
@@ -47,7 +49,7 @@ You can use composer to use this library.
 ```php
 {
     "require": {
-		"alfallouji/dhl_api": "*"
+		"majdelhaj/dhl_api": "*"
     }
 }
 ```
