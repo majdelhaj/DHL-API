@@ -82,6 +82,13 @@ class Contact extends Base
             'subobject' => false,
             'comment' => 'Email address containing \'@\'',
             'maxLength' => '50',
-        ), 
+        ),
+        'MobilePhoneNumber' => array(
+            'type' => 'MobilePhoneNumber',
+            'required' => false,
+            'subobject' => false,
+            'comment' => 'Mobile Phone Number',
+            'maxLength' => '25',
+        ),
     );
 }
